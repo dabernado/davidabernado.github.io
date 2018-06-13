@@ -134,3 +134,7 @@ footer {
   margin-top: 20%;
   font-family: sans-serif;
 }
+
+img {
+  max-width: 30%;
+}
