@@ -113,11 +113,6 @@ h1 {
   font-size: 1em;
 }
 
-.about-flex {
-  display: flex;
-  flex-direction: row;
-}
-
 .links-flex {
   display: flex;
   flex-direction: row;
@@ -133,8 +128,4 @@ h1 {
 footer {
   margin-top: 20%;
   font-family: sans-serif;
-}
-
-img {
-  max-width: 30%;
 }
